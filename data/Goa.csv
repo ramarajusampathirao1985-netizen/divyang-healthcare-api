@@ -1,0 +1,21 @@
+name,category,subcategory,state,city,address,phone,landline,email,website,description,latitude,longitude,coverPhotoUrl,isActive,approvalStatus
+Manipal Hospital Goa,Hospitals,Multi speciality hospital,Goa,Panaji,"Dr. E Borges Road, Dona Paula, Panaji, Goa 403004",8888602222,0832-6632500,,,CGHS empanelled hospital (Central Government Health Scheme); listed in CGHS empanelment list.,,,,true,APPROVED
+Goa Medical College and Hospital,Hospitals,Government Hospital,Goa,Bambolim,"Goa Medical College, Bambolim, Tiswadi, Goa 403202",,,,,Government medical college hospital.,,,,true,APPROVED
+"North District Hospital (Asilo), Mapusa",Hospitals,Government Hospital,Goa,Mapusa,"Jamatkhana Road, Peddem, Mapusa, Goa 403507",8779800655,0832-2253244,,,Government district hospital.,,,,true,APPROVED
+"Hospicio Hospital (South Goa District Hospital), Margao",Hospitals,Government Hospital,Goa,Margao,"Hospicio South Goa District Hospital, Margao, Goa 403602",,,,,Government district hospital.,,,,true,APPROVED
+"Sub-District Hospital, Ponda",Hospitals,Government Hospital,Goa,Ponda,"Ponda, Goa",,0832-2372116,,,Government sub-district hospital.,,,,true,APPROVED
+"Sub-District Hospital (Cottage Hospital), Chicalim",Hospitals,Government Hospital,Goa,Chicalim,"Chicalim, Goa",,0832-2541698,,,Government sub-district hospital.,,,,true,APPROVED
+"TB Hospital, Margao",Hospitals,Government Hospital,Goa,Margao,"Margao, Goa",,0832-2757777,,,Government TB hospital.,,,,true,APPROVED
+Community Health Centre Bicholim,Hospitals,Government Hospital,Goa,Bicholim,"Near petrol pump, Sarvona, Bicholim, Goa",9011025027,0832-2350402,,,Government community health centre.,,,,true,APPROVED
+Community Health Centre Sankhali,Hospitals,Government Hospital,Goa,Sankhali,"Near Sai Nursing Home, Sankhali, Goa",9545262784,0832-2364258,,,Government community health centre.,,,,true,APPROVED
+Community Health Centre Canacona,Hospitals,Government Hospital,Goa,Canacona,"Canacona, Goa",,0832-2643422,,,Government community health centre.,,,,true,APPROVED
+Community Health Centre Curchorem,Hospitals,Government Hospital,Goa,Curchorem,"Curchorem, Goa",,0832-2650566,,,Government community health centre.,,,,true,APPROVED
+Community Health Centre Pernem,Hospitals,Government Hospital,Goa,Pernem,"Pernem, Goa",,0832-2201249,,,Government community health centre.,,,,true,APPROVED
+Community Health Centre Valpoi,Hospitals,Government Hospital,Goa,Valpoi,"Valpoi, Goa",,0832-2375234,,,Government community health centre.,,,,true,APPROVED
+Institute of Psychiatry and Human Behaviour,Hospitals,Government Hospital,Goa,Bambolim,"Bambolim, Goa 403202 (opposite Bambolim Church)",,0832-2458687,,https://iphb.goa.gov.in,Government psychiatric institute and hospital.,15.452432,73.860826,,true,APPROVED
+"ESI Hospital, Margao",Hospitals,Government Hospital,Goa,Margao,"Near Dr. Rajendra Prasad Stadium, Margao, Goa",,0832-2704606,,,ESIS (Employees' State Insurance Scheme) hospital.,,,,true,APPROVED
+Goa Medical College Blood Bank,Blood Banks,Government Blood Banks,Goa,Bambolim,"Goa Medical College, Bambolim, Tiswadi, Goa 403202",,09422641170,bloodbankgmc@gmail.com,,Government blood bank (source: Goa SACS / DFDA Goa blood centre lists).,,,,true,APPROVED
+Hospicio Hospital Blood Bank,Blood Banks,Government Blood Banks,Goa,Margao,"Ground floor, Hospicio South Goa District Hospital, Margao, Goa 403602",,09850456578,bloodbank_hh@yahoo.co.in,,Government blood bank (source: Goa SACS / DFDA Goa blood centre lists).,,,,true,APPROVED
+"District Hospital Blood Bank (Asilo), Mapusa",Blood Banks,Government Blood Banks,Goa,Mapusa,"District Hospital, Pedem, Mapusa, Goa 403507",,07507965359,asilolab@gmail.com,,Government blood bank (source: Goa SACS / DFDA Goa blood centre lists).,,,,true,APPROVED
+Manipal Hospitals Goa - Physiotherapy Department,Physiotherapy,,Goa,Panaji,"Dr. E Borges Road, Dona Paula, Panaji, Goa 403004",,0832-6632500,,https://www.manipalhospitals.com/goa/doctors-list/physiotherapy/,Physiotherapy department inside Manipal Hospital Goa.,,,,true,APPROVED
+Pain Clinic of India - Goa Clinic (Padma Spine and Pain Clinic),Physiotherapy,,Goa,Margao,"101, Rajnil Royale, Carmelite Monastery, Malbhat, Margao, Goa 403601",,,,,Pain and physiotherapy clinic.,,,,true,APPROVED
